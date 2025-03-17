@@ -80,7 +80,7 @@ redirect_from:
 ### Mentoring 
 
 * Member, **Women in Aerospace Europe**, *2025*.
-  *Member of a Women in Aerospace regional network in Paris.
+  * Member of a Women in Aerospace regional network in Paris.
 
 * Space4Women Mentorship Program, **United Nations Office for Outer Space Affairs**, *2023*.
   * Selected as a mentee for the 2023 Space4Women Mentorship Program, an initiative of UNOOSA to promote access to space, STEM education, and networking opportunities for women/gender minorities worldwide.
