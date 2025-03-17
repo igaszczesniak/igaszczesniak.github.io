@@ -9,13 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-### Education
-
-* Space Entrepreneurship Master Program, **European Institute of Innovation for Sustainability**, *May 2023 - May 2024*.
-* Geoinformatics (Erasmus+ exchange year abroad), **Aalto University**, Finland, *September 2021 - June 2022*.
-* MSc in Geoinformatics, Photogrammetry and Remote Sensing, **AGH University of Science and Technology in Krakow**, Poland, *February 2021 - July 2022*.
-* BSc in Geodesy, Surveying and Cartography, **AGH University of Science and Technology in Krakow**, Poland, *September 2017 - February 2021*.
-
 ### Work experience
 
 * **European Space Agency (HQ)**, Space Innovation Engineer, *September 2024 - Present*
@@ -29,9 +22,16 @@ redirect_from:
   * Worked on the algorithm for detecting flooded areas and ice in rivers using SAR data.
 
 * **European Space Agency (ESRIN)**, Intern in the Future Systems Department, *February - July 2021*
-  * Conducted a socio-economic analysis of the Earth Observation market.
+  * Conducted a socio-economic analysis of the Earth observation market.
   * Investigated the main users and usages of Copernicus Sentinels data products and future products from high-priority candidate missions.
   * Developed a comprehensive database of over 300 relevant value-added products, including interactive data visualizations and a report that allowed for enhanced analysis and understanding.  
+
+### Education
+
+* Space Entrepreneurship Master Program, **European Institute of Innovation for Sustainability**, *May 2023 - May 2024*.
+* Geoinformatics (Erasmus+ exchange year abroad), **Aalto University**, Finland, *September 2021 - June 2022*.
+* MSc in Geoinformatics, Photogrammetry and Remote Sensing, **AGH University of Science and Technology in Krakow**, Poland, *February 2021 - July 2022*.
+* BSc in Geodesy, Surveying and Cartography, **AGH University of Science and Technology in Krakow**, Poland, *September 2017 - February 2021*.
   
 ### Skills
 
@@ -58,6 +58,8 @@ redirect_from:
 
 ### Courses & summer schools  
 
+* AI Agents Course, Hugging Face, *February 2025 - Present*
+
 * Julia for Data Science, JuliaAcademy, *20 September 2022*.
 
 * DTMethod® Foundation, a training on Design Thinking methodology, APMG International, *3 August 2022*.
@@ -77,10 +79,18 @@ redirect_from:
 
 ### Mentoring 
 
+* Member, **Women in Aerospace Europe**, *2025*.
+  *Member of a Women in Aerospace regional network in Paris.
+
 * Space4Women Mentorship Program, **United Nations Office for Outer Space Affairs**, *2023*.
   * Selected as a mentee for the 2023 Space4Women Mentorship Program, an initiative of UNOOSA to promote access to space, STEM education, and networking opportunities for women/gender minorities worldwide.
 
 ### Volunteering 
 
 * Teaching Volunteer, **Skype a Scientist**, *2024*.
-  * Increase awareness of Earth observation and STEM among fifth graders in Dayton, USA.
+  * Volunteered at Imagine Klepinger Road Community School in Dayton, Ohio, to promote Earth observation and STEM education among schoolchildren through outreach activities.
+
+
+
+
+
