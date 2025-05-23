@@ -12,11 +12,14 @@ redirect_from:
 ### Work experience
 
 * **European Space Agency (HQ)**, Space Innovation Engineer, *September 2024 - Present*
+  * Evaluate R&D projects in the space industry at the European level and serve as a technical officer. 
+  * Develop AI workflows for trend identification, insight generation from R&D activities, and an expert recommender system.
+  * Lead the communication strategy for ESA’s Discovery and Preparation Programme.
 
 * **Atlantic International Research Centre**, Earth Observation Project Developer, *August 2022 - August 2024*
   * Developed workflows and early prototypes for processing, analyzing and visualizing satellite and IoT datasets.
-  * Performed outreach, disseminate project results, and engage with key stakeholders and end users.
-  * Served on the organizing committee of the JuliaEO - Global Workshop on Earth Observation with Julia.
+  * Performed outreach, disseminated project results, and engaged with key stakeholders and end users.
+  * Served on the organizing committee of the JuliaEO - Global Workshop on Earth Observation with Julia in 2023 and 2024. 
 
 * **Institute of Meteorology and Water Management (IMGW-PIB)**, Intern in the Remote Sensing Centre, *September 2021*
   * Worked on the algorithm for detecting flooded areas and ice in rivers using SAR data.
@@ -28,6 +31,7 @@ redirect_from:
 
 ### Education
 
+* Space Studies Program (SSP25), **International Space University**, *June 2025 - August 2025*.
 * Space Entrepreneurship Master Program, **European Institute of Innovation for Sustainability**, *May 2023 - May 2024*.
 * Geoinformatics (Erasmus+ exchange year abroad), **Aalto University**, Finland, *September 2021 - June 2022*.
 * MSc in Geoinformatics, Photogrammetry and Remote Sensing, **AGH University of Science and Technology in Krakow**, Poland, *February 2021 - July 2022*.
@@ -36,6 +40,7 @@ redirect_from:
 ### Skills
 
 * Data science
+* AI
 * Research
 * Data visualization
 * Business development
