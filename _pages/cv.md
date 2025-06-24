@@ -31,7 +31,7 @@ redirect_from:
 
 ### Education
 
-* Space Studies Program (SSP25), **International Space University**, *June 2025 - August 2025*.
+* Space Studies Program (SSP25), **International Space University**, Seoul, South Korea, *June 2025 - August 2025*.
 * Space Entrepreneurship Master Program, **European Institute of Innovation for Sustainability**, *May 2023 - May 2024*.
 * Geoinformatics (Erasmus+ exchange year abroad), **Aalto University**, Finland, *September 2021 - June 2022*.
 * MSc in Geoinformatics, Photogrammetry and Remote Sensing, **AGH University of Science and Technology in Krakow**, Poland, *February 2021 - July 2022*.
