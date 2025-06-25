@@ -20,7 +20,6 @@ In my current role, I analyze various space-related technologies, R&D projects, 
 
 * Earth Observation 
 * Artificial Intelligence
-* AI Agents 
 * Signal Processing 
 * Computer Vision 
 * Next-Gen Sensor Networks
