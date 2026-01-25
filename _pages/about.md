@@ -10,7 +10,7 @@ redirect_from:
 
 Hi there! I'm Iga.
 
-I'm a Space Innovation Engineer at the European Space Agency. I hold an MSc in Remote Sensing from AGH University of Science and Technology in Krakow and Aalto University in Finland, along with a master's in Space Entrepreneurship from the European Institute of Innovation for Sustainability. 
+I'm a Space Innovation Engineer at the European Space Agency. I hold an MSc in Remote Sensing from AGH University of Science and Technology in Krakow and Aalto University in Espoo, Finland. 
 
 Over time, I have become increasingly interested in the commercialisation of space technology and its potential to address global challenges, meet public needs, and inform policy. To deepen my expertise, I have completed several cross-disciplinary courses in data science, AI, and project and product management.
 
