@@ -15,7 +15,7 @@ redirect_from:
 
 * **Atlantic International Research Centre**, Earth Observation Developer, *August 2022 - August 2024*
  
-* **Institute of Meteorology and Water Management (IMGW-PIB)**, Remote Sensing Intern, *September 2021*
+* **Institute of Meteorology and Water Management**, Remote Sensing Intern, *September 2021*
 
 * **European Space Agency (ESRIN)**, Future Systems Intern, *February - July 2021*
 
