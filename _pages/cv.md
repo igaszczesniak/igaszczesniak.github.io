@@ -13,7 +13,7 @@ redirect_from:
 
 * **European Space Agency (HQ)**, Space Innovation Engineer, *September 2024 - Present*
 
-* **Atlantic International Research Centre**, Earth Observation Developer, *August 2022 - August 2024*
+* **Atlantic International Research Centre**, Data Scientist, *August 2022 - August 2024*
  
 * **Institute of Meteorology and Water Management**, Remote Sensing Intern, *September 2021*
 
