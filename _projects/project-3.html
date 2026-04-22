@@ -1,16 +1,16 @@
 ---
 title: "Real-time vineyard monitoring dashboard"
-excerpt: "A real-time vineyard monitoring data application written in Julia."
+excerpt: "A real-time vineyard monitoring application written in Julia."
 collection: projects
 ---
 
-<p>We all want better wines! We have installed four Internet-of-Things sensors across four different vineyards in Biscoitos, Terceira Island to collect hourly weather data, allowing us to closely monitor conditions.</p>
+Good wine starts with good data. In this project, we installed four Internet of Things sensors across four vineyards in Biscoitos, on Terceira Island, to collect hourly weather data and monitor vineyard conditions more closely.
+
+I developed a real-time dashboard to visualize this information and support disease risk assessment. The application combines time series data on temperature, humidity, precipitation, wind, and solar radiation to estimate the risk of primary downy mildew infection, a disease that can affect healthy vines.
+
+This was also a great opportunity to explore Julia for web development. I built the dashboard with Dash.jl and really enjoyed working with the framework. Beyond the technical challenge, it was rewarding to create a tool that can be genuinely useful for winemakers by helping them identify infection periods and take preventive action.
+
+The webpage is currently available in Portuguese, since it was designed for local Azorean producers. The English version, along with the code, is available in this Notebook.
 
 <p><br/><img src='/images/sofi.jpeg'></p>
 
-<p>I have developed a dashboard to monitor these vineyards in real-time. The dashboard uses time series data on temperature, humidity, precipitation, wind, and solar radiation to assess the risk of primary infection of downy mildew, a disease that attacks healthy vines.</p>
-
-<p>Check out the dashboard <a href="https://services.aircentre.org/agrodigital/terceira/">here</a>! 🍷</p>
-
-<p>It was a fun project to work on and to practice using Julia for web development. I used Dash.jl and, to be honest, I really liked this framework. Also, it was exciting to create a tool that can actually be <em>useful</em> for winemakers, allowing them to track periods of primary infection and take preventive measures.
-    The webpage is currently in Portuguese as we wanted it to be tailored for local Azorean producers. The English version, along with code, can be viewed in this <a href="https://github.com/igaszczesniak/dashboard-julia">Notebook</a>.</p>   

@@ -4,6 +4,11 @@ excerpt: "Real-time visualization of the AEROS MH-1 satellite's position."
 collection: projects
 ---
 
-<p>My company has been involved in a consortium to launch the Earth observation satellite <em>AEROS-MH1</em>, and I wrote the backend to track its position. I used orbital data from a TLE (Two-Line Element) file sourced from CelesTrak to build an orbit propagator with the SGP4 algorithm, then converted the resulting position vectors to the WGS-84 (World Geodetic System 1984) coordinate reference system.</p>
+This project focuses on real-time tracking and visualization of the Earth observation satellite <em>AEROS-MH1</em>, developed as part of a broader consortium effort.
 
-<p>Check out the satellite tracker <a href="https://services.aircentre.org/sat-tracker/">here</a>.</p>
+I built the backend system responsible for computing the satellite’s position in orbit. The pipeline starts with orbital data from a Two-Line Element (TLE) file sourced from CelesTrak. Using the SGP4 propagation algorithm, I computed the satellite’s position over time, then transformed the resulting vectors into the WGS-84 coordinate reference system to enable accurate mapping on Earth.
+
+This approach allows for reliable, near real-time visualization of the satellite’s trajectory, making it easier to monitor its position and better understand its observational coverage.
+
+
+<p>You can explore the live tracker <a href="https://services.aircentre.org/sat-tracker/">here</a>.</p>

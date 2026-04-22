@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Iga 
+Hi there! I'm Iga.
 
 I'm currently a Space Innovation Engineer at the European Space Agency, managing a Discovery and Preparation Programme and building AI systems to automate complex processes.
 

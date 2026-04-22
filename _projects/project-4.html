@@ -1,6 +1,6 @@
 ---
 title: "OSIP trend summarizer agent"
-excerpt: "Cluster R&D proposals by topic."
+excerpt: "AI-powered clustering and trend analysis of ESA's OSIP R&D proposals."
 collection: projects
 ---
 
@@ -8,7 +8,8 @@ collection: projects
   <img src="/images/agent-logo.png" style="width: 200px; height: auto;">
 </p>
 
-<p></p><a href="https://ideas.esa.int/servlet/hype/IMT?documentTableId=45087218054705371&userAction=Browse&templateName=&documentId=084c11fe4a9679bf192774977870faba">OSIP</a> is a platform run by the European Space Agency to collect and evaluate innovative ideas from academia, industry, and startups. Since its creation in 2018, it has gathered a valuable dataset of thousands of disruptive R&D project proposals from all space-related domains. I developed an agentic workflow to cluster OSIP ideas by topic and identify emerging technologies within these clusters.</p>
+The <a href="https://ideas.esa.int/servlet/hype/IMT?documentTableId=45087218054705371&userAction=Browse&templateName=&documentId=084c11fe4a9679bf192774977870faba">OSIP</a> platform collects innovative space R&D proposals from academia, industry, and startups. This agentic workflow ingests thousands of OSIP ideas, generates one-sentence summaries, clusters them into thematic categories, tracks monthly trends, and produces LLM-generated insights for each category.
 
-<p>Honestly, I really enjoyed this project. I used the <em>Mistral large</em> model from Mistral AI, which performed well in text summarization, labelling, assigning projects to relevant categories, and generating descriptions and insights. It also gave me a clear picture of the latest advancements in the space sector ascoss hardware and software. 👀</p>   
+The pipeline is powered by <em>Mistral Large</em> for summarization, categorization, assignment, and narrative generation, with a custom scraper for OSIP data and SGP4-style propagation for temporal analysis. Outputs include a web dashboard for interactive visualization.
 
+I really enjoyed building this end-to-end system, which gave me a clear view of emerging trends across space hardware and software domains.
